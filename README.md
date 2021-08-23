@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarceloAraujo14
 - 👀 I’m interested in ... learn about coding, mobile aplications and games.
-- 🌱 I’m currently learning ... python 3.9 through cursoemvideo.com and about to start on Candido Mendes College the 
-Analysis and Development of Software course.
+- 🌱 I’m currently learning ... python 3.9 through cursoemvideo.com and just start Analysis and Development of Software Candido Mendes College course.
 - 💞️ I’m looking to collaborate on ... i dont know yet.
 - 📫 How to reach me ... mbaraujo1406@gmail.com
 
