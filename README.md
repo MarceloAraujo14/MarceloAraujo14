@@ -19,7 +19,7 @@
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:150px" src="https://raw.githubusercontent.com/MarceloAraujo14/MarceloAraujo14/main/marcelo.jpg">
+  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MarceloAraujo14/MarceloAraujo14/main/marcelo.jpg?width=676&height=676">
 </div>
   
   ##
