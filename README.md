@@ -29,6 +29,7 @@
   
   <a href = "mailto:mbaraujo1406@gmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mbaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.hackerrank.com/mbaraujo1406" target="_blank"><img src="https://repository-images.githubusercontent.com/323350914/d3d80100-5380-11eb-8996-8dd7f746dcc3" target="_blank" width="30" height="30"></a> 
  
  
  
